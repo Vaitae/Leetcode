@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Vaitae/Leetcode/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/Vaitae/Leetcode/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
@@ -15,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Vaitae/Leetcode/tree/master/0058-length-of-last-word) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/Vaitae/Leetcode/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
