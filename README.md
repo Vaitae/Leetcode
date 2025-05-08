@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vaitae/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/Vaitae/Leetcode/tree/master/0066-plus-one) |
+| [0169-majority-element](https://github.com/Vaitae/Leetcode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Vaitae/Leetcode/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
@@ -28,4 +29,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vaitae/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Vaitae/Leetcode/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Vaitae/Leetcode/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Vaitae/Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Vaitae/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
