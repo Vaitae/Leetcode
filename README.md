@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Vaitae/Leetcode/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/Vaitae/Leetcode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Vaitae/Leetcode/tree/master/0283-move-zeroes) |
+| [2058-concatenation-of-array](https://github.com/Vaitae/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2502-sort-the-people](https://github.com/Vaitae/Leetcode/tree/master/2502-sort-the-people) |
 ## Two Pointers
 |  |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Vaitae/Leetcode/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/Vaitae/Leetcode/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
