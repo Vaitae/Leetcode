@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Vaitae/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vaitae/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/Vaitae/Leetcode/tree/master/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Vaitae/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Vaitae/Leetcode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Vaitae/Leetcode/tree/master/0283-move-zeroes) |
 | [2058-concatenation-of-array](https://github.com/Vaitae/Leetcode/tree/master/2058-concatenation-of-array) |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vaitae/Leetcode/tree/master/0020-valid-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Vaitae/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
