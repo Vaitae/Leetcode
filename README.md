@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Vaitae/Leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vaitae/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Vaitae/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Vaitae/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Vaitae/Leetcode/tree/master/0283-move-zeroes) |
 | [2058-concatenation-of-array](https://github.com/Vaitae/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2502-sort-the-people](https://github.com/Vaitae/Leetcode/tree/master/2502-sort-the-people) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Vaitae/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Vaitae/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Vaitae/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Vaitae/Leetcode/tree/master/0242-valid-anagram) |
 | [2502-sort-the-people](https://github.com/Vaitae/Leetcode/tree/master/2502-sort-the-people) |
 ## Divide and Conquer
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Vaitae/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Vaitae/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Vaitae/Leetcode/tree/master/0242-valid-anagram) |
 | [2502-sort-the-people](https://github.com/Vaitae/Leetcode/tree/master/2502-sort-the-people) |
 ## Counting
